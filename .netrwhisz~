@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/caolei/projects/14AVH/14PF/km500_4_2_2/uboot_imx/src'
+let g:netrw_dirhist_2='/home/caolei/projects/14AVH/14PF/km500_4_2_2/kernel_imx/src'
+let g:netrw_dirhist_3='/home/caolei/projects/14AVH/14PF/km500_4_2_2/uboot_imx/src'
+let g:netrw_dirhist_4='/home/caolei/projects/14AVH/14PF/km500_4_2_2/kernel_imx/src'
+let g:netrw_dirhist_5='/home/caolei/projects/14AVH/14PF/km500_4_2_2/uboot_imx/src'
